@@ -1,4 +1,4 @@
-# UAV-DDPG
+# VN-MADDPG
 
 This is the source code for our paper: **基于多智能体深度强化学习的车联网通信资源分配优化**. A brief introduction of this work is as follows:
 
