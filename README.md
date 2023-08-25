@@ -6,6 +6,18 @@ This is the source code for our paper: **基于多智能体深度强化学习的
 
 本文发表在北京交通大学学报，[链接](http://jdxb.bjtu.edu.cn/CN/abstract/abstract3830.shtml)
 
+## Citation
+
+	@article{方维维2022基于多智能体深度强化学习的车联网通信资源分配优化,
+		title={基于多智能体深度强化学习的车联网通信资源分配优化},
+		author={方维维 and 王云鹏 and 张昊 and 孟娜},
+		journal={北京交通大学学报},
+		volume={46},
+		number={2},
+		pages={64--72},
+		year={2022}
+	}
+
 ## 不足甚多，时日已久，仅供参考，无法提供更多支持
 
 > Please note that the open source code in this repository was mainly completed by the graduate student author during his master's degree study. Since the author did not continue to engage in scientific research work after graduation, it is difficult to continue to maintain and update these codes. We sincerely apologize that these codes are for reference only.
