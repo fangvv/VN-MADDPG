@@ -17,6 +17,13 @@ This is the source code for our paper: **基于多智能体深度强化学习的
 		pages={64--72},
 		year={2022}
 	}
+	
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/fangvv/VN-MADDPG.svg)](https://starchart.cc/fangvv/VN-MADDPG)
+
+## For more
+
+We have another work on [DDPG](https://github.com/fangvv/UAV-DDPG) for your reference, and you can simply use Ray for implementing [DRL algorithms](https://github.com/ray-project/ray/tree/master/rllib/algorithms) now.
 
 ## 不足甚多，时日已久，仅供参考，无法提供更多支持
 
