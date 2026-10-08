@@ -186,6 +186,10 @@ cd Random
 python random.py
 ```
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 	@article{方维维2022基于多智能体深度强化学习的车联网通信资源分配优化,
